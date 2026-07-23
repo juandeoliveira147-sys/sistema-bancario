@@ -46,6 +46,6 @@ Os dados são armazenados apenas na memória durante a execução do programa. A
 * Interface gráfica ou versão Web utilizando Flask/FastAPI
 * API para integração com aplicações externas
 
-
+### objetivo
 Este projeto faz parte da minha jornada de aprendizado em programação. A proposta não é apenas fazer o sistema funcionar, mas evoluir gradualmente a organização do código, aplicar boas práticas e construir uma base sólida para projetos mais completos no futuro.
 
