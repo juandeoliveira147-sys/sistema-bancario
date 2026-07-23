@@ -21,7 +21,7 @@ O objetivo foi praticar a criação de um sistema com regras de negócio semelha
 
 * Python
 
-## 📚 Conceitos praticados
+##  Conceitos praticados
 
 * Funções
 * Dicionários aninhados
